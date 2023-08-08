@@ -1,4 +1,6 @@
 ### Olá! Eu sou o Jackson A. Lourenço.
+✗ Atualmente Apliando meus conhecimentos de JavaScript para melhorar minha perfomance nos meus projetos.
+✗ Exercendo: Back && Front-End
 
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/jot4_exe)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-andre-lourenco-40743b231/)
