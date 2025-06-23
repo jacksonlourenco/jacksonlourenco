@@ -1,4 +1,4 @@
-<h1 align="center">Jackson Lourenço • Desenvolvedor em Ascensão ⚔️</h1>
+<h1 align="center">Jackson A. Lourenço • Desenvolvedor em Ascensão ⚔️</h1>
 
 <p align="center">
   <strong>Subindo de nível com cada commit</strong> <br/>
