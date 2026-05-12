@@ -1,4 +1,4 @@
-﻿<h1 align="center">⚔️ Jackson A. Lourenço |   Leveling Dev System</h1>
+<h1 align="center">⚔️ Jackson A. Lourenço |  Leveling Dev System</h1>
 
 ---
 
@@ -161,3 +161,4 @@ Recompensa Final: Construir produtos de alto impacto
 ---
 
 <p align="center"><i>"Evolução não é sorte. É rotina, foco e commits."</i></p>
+
