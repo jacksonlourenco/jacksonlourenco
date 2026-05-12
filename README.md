@@ -27,8 +27,8 @@
 ║ Nome: Jackson        ║
 ║ Classe: Full Stack   ║
 ║ Título: Em Ascensão  ║
-║ Rank: E            ║
-║ Cargo: Aprendiz    ║
+║ Rank: E              ║
+║ Cargo: Aprendiz      ║
 ╚══════════════════════╝
 ```
 
@@ -40,6 +40,12 @@
 <img src="assets/images/level-3.png" width="300" alt="Personagem Nível 1" />
 
 > Nível 3: evolução por boss concluído
+
+### 🐾 Companheiro
+
+<img src="assets/images/companion-pet.jpeg" width="140" alt="Companheiro da jornada" />
+
+> Companion: guardião da jornada
 
 </td>
 <td width="33%" valign="top">
@@ -54,10 +60,6 @@ AGILIDADE [██░░░░░░░░] 20
 ```
 <!-- ATTRIBUTES:START -->
 <!-- ATTRIBUTES:END -->
-
-> Ataque e Defesa escalam com o nível do personagem.  
-> Vida = idade x 2 (auto).  
-> Agilidade = 1 ponto por mês de experiência na área (auto).
 
 </td>
   </tr>
@@ -86,7 +88,7 @@ AGILIDADE [██░░░░░░░░] 20
 <!-- BOSSES:START -->
 - [x] Boss 1: Entrar no mercado de trabalho - 06/2022 - DiamondBigger
 - [x] Boss 2: Estágio - 06/2022 - DiamondBigger
-- [ ] Boss 3: Assistente - 10/2025 - Capgemini
+- [x] Boss 3: Assistente - 10/2025 - Capgemini
 - [ ] Boss 4: Desenvolvedor Júnior - MM/AAAA - Empresa
 - [ ] Boss 5: Desenvolvedor Pleno - MM/AAAA - Empresa
 - [ ] Boss 6: Desenvolvedor Sênior - MM/AAAA - Empresa
@@ -116,9 +118,9 @@ Recompensa Final: Construir produtos de alto impacto
       <img src="assets/images/boss-2-estagio.png" width="170" alt="Boss 2 - Estágio" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Boss%203-Assistente-334155?style=for-the-badge" alt="Boss 3" /><br/>
-      <img src="https://img.shields.io/badge/10%2F2025%20-%20Capgemini-64748b?style=flat-square" alt="Data e empresa" /><br/>
-      <img src="https://img.shields.io/badge/PENDENTE-475569?style=flat-square" alt="Status" /><br/>
+      <img src="https://img.shields.io/badge/Boss%202-Est%C3%A1gio-ef4444?style=for-the-badge" alt="Boss 3" /><br/>
+      <img src="https://img.shields.io/badge/06%2F2022%20-%20DiamondBigger-ef4444?style=flat-square" alt="Data e empresa" /><br/>
+      <img src="https://img.shields.io/badge/CONCLU%C3%8DDO-ef4444?style=flat-square" alt="Status" /><br/>
       <img src="assets/images/boss-3-assistente.png" width="170" alt="Boss 3 - Assistente" />
     </td>
   </tr>
@@ -133,13 +135,13 @@ Recompensa Final: Construir produtos de alto impacto
       <img src="https://img.shields.io/badge/Boss%205-Desenvolvedor%20Pleno-334155?style=for-the-badge" alt="Boss 5" /><br/>
       <img src="https://img.shields.io/badge/MM%2FAAAA%20-%20Empresa-64748b?style=flat-square" alt="Data e empresa" /><br/>
       <img src="https://img.shields.io/badge/PENDENTE-475569?style=flat-square" alt="Status" /><br/>
-      <img src="assets/images/boss-5-pleno.png" width="170" alt="Boss 5 - Desenvolvedor Pleno" />
+      <img src="assets/images/boss-4-junior.png" width="170" alt="Boss 5 - Desenvolvedor Pleno" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Boss%206-Desenvolvedor%20S%C3%AAnior-334155?style=for-the-badge" alt="Boss 6" /><br/>
       <img src="https://img.shields.io/badge/MM%2FAAAA%20-%20Empresa-64748b?style=flat-square" alt="Data e empresa" /><br/>
       <img src="https://img.shields.io/badge/PENDENTE-475569?style=flat-square" alt="Status" /><br/>
-      <img src="assets/images/boss-6-senior.png" width="170" alt="Boss 6 - Desenvolvedor Sênior" />
+      <img src="assets/images/boss-4-junior.png" width="170" alt="Boss 6 - Desenvolvedor Sênior" />
     </td>
   </tr>
   <tr>
@@ -147,7 +149,7 @@ Recompensa Final: Construir produtos de alto impacto
       <img src="https://img.shields.io/badge/Boss%207-Tech%20Lead%20%2F%20Engenheiro-334155?style=for-the-badge" alt="Boss 7" /><br/>
       <img src="https://img.shields.io/badge/MM%2FAAAA%20-%20Empresa-64748b?style=flat-square" alt="Data e empresa" /><br/>
       <img src="https://img.shields.io/badge/PENDENTE-475569?style=flat-square" alt="Status" /><br/>
-      <img src="assets/images/boss-7-tech-lead-engenheiro.png" width="170" alt="Boss 7 - Tech Lead / Engenheiro" />
+      <img src="assets/images/boss-4-junior.png" width="170" alt="Boss 7 - Tech Lead / Engenheiro" />
     </td>
   </tr>
 </table>
