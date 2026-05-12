@@ -27,8 +27,8 @@
 ║ Nome: Jackson        ║
 ║ Classe: Full Stack   ║
 ║ Título: Em Ascensão  ║
-║ Rank: E            ║
-║ Cargo: Aprendiz    ║
+║ Rank: B            ║
+║ Cargo: Assistente  ║
 ╚══════════════════════╝
 ```
 
@@ -37,9 +37,9 @@
 
 ### 🧍 Avatar
 
-<img src="assets/images/level-3.png" width="300" alt="Personagem Nível 1" />
+<img src="assets/images/level-4.png" width="300" alt="Personagem Nível 1" />
 
-> Nível 3: evolução por boss concluído
+> Nível 4: evolução por boss concluído
 
 
 </td>
@@ -48,8 +48,8 @@
 ### 📊 Atributos
 
 ```text
-ATAQUE    [████░░░░░░] 46
-DEFESA    [████░░░░░░] 44
+ATAQUE    [█████░░░░░] 58
+DEFESA    [█████░░░░░] 56
 VIDA      [████░░░░░░] 48
 AGILIDADE [██░░░░░░░░] 20
 ```
@@ -119,8 +119,8 @@ Recompensa Final: Construir produtos de alto impacto
       <img src="assets/images/boss-2-estagio.png" width="170" alt="Boss 2 - Estágio" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Boss%202-Est%C3%A1gio-ef4444?style=for-the-badge" alt="Boss 3" /><br/>
-      <img src="https://img.shields.io/badge/06%2F2022%20-%20DiamondBigger-ef4444?style=flat-square" alt="Data e empresa" /><br/>
+      <img src="https://img.shields.io/badge/Boss%203-Assistente-ef4444?style=for-the-badge" alt="Boss 3" /><br/>
+      <img src="https://img.shields.io/badge/10%2F2025%20-%20Capgemini-ef4444?style=flat-square" alt="Data e empresa" /><br/>
       <img src="https://img.shields.io/badge/CONCLU%C3%8DDO-ef4444?style=flat-square" alt="Status" /><br/>
       <img src="assets/images/boss-3-assistente.png" width="170" alt="Boss 3 - Assistente" />
     </td>
@@ -136,13 +136,13 @@ Recompensa Final: Construir produtos de alto impacto
       <img src="https://img.shields.io/badge/Boss%205-Desenvolvedor%20Pleno-334155?style=for-the-badge" alt="Boss 5" /><br/>
       <img src="https://img.shields.io/badge/MM%2FAAAA%20-%20Empresa-64748b?style=flat-square" alt="Data e empresa" /><br/>
       <img src="https://img.shields.io/badge/PENDENTE-475569?style=flat-square" alt="Status" /><br/>
-      <img src="assets/images/boss-4-junior.png" width="170" alt="Boss 5 - Desenvolvedor Pleno" />
+      <img src="assets/images/boss-5-pleno.png" width="170" alt="Boss 5 - Desenvolvedor Pleno" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Boss%206-Desenvolvedor%20S%C3%AAnior-334155?style=for-the-badge" alt="Boss 6" /><br/>
       <img src="https://img.shields.io/badge/MM%2FAAAA%20-%20Empresa-64748b?style=flat-square" alt="Data e empresa" /><br/>
       <img src="https://img.shields.io/badge/PENDENTE-475569?style=flat-square" alt="Status" /><br/>
-      <img src="assets/images/boss-4-junior.png" width="170" alt="Boss 6 - Desenvolvedor Sênior" />
+      <img src="assets/images/boss-6-senior.png" width="170" alt="Boss 6 - Desenvolvedor Sênior" />
     </td>
   </tr>
   <tr>
@@ -150,7 +150,7 @@ Recompensa Final: Construir produtos de alto impacto
       <img src="https://img.shields.io/badge/Boss%207-Tech%20Lead%20%2F%20Engenheiro-334155?style=for-the-badge" alt="Boss 7" /><br/>
       <img src="https://img.shields.io/badge/MM%2FAAAA%20-%20Empresa-64748b?style=flat-square" alt="Data e empresa" /><br/>
       <img src="https://img.shields.io/badge/PENDENTE-475569?style=flat-square" alt="Status" /><br/>
-      <img src="assets/images/boss-4-junior.png" width="170" alt="Boss 7 - Tech Lead / Engenheiro" />
+      <img src="assets/images/boss-7-tech-lead-engenheiro.png" width="170" alt="Boss 7 - Tech Lead / Engenheiro" />
     </td>
   </tr>
 </table>
@@ -177,6 +177,7 @@ Recompensa Final: Construir produtos de alto impacto
 - 🧠 [Projeto de classe bancária](https://github.com/jacksonlourenco/BankingClass)
 
 <p align="center"><i>"Evolução não é sorte. É rotina, foco e commits."</i></p>
+
 
 
 
