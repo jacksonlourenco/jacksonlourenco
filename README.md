@@ -1,4 +1,4 @@
-﻿<h1 align="center">âš”ï¸ Jackson A. LourenÃ§o | Solo Leveling Dev System</h1>
+<h1 align="center">âš”ï¸ Jackson A. LourenÃ§o | Solo Leveling Dev System</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=850&color=38BDF8&center=true&vCenter=true&width=980&lines=[SYSTEM]+Inicializando...;Player:+Jackson+A.+LourenÃ§o;Classe:+Full+Stack+Hunter;XP:+Upando+a+cada+commit;PrÃ³ximo+Boss:+PromoÃ§Ã£o+de+Rank" alt="Sistema" />
@@ -60,10 +60,10 @@
 ### ðŸ“Š Atributos
 
 ```text
-ATAQUE    [â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘] 58
-DEFESA    [â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘] 56
-VIDA      [â–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘] 48
-AGILIDADE [â–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘] 20
+ATAQUE    [█████░░░░░] 58
+DEFESA    [█████░░░░░] 56
+VIDA      [████░░░░░░] 48
+AGILIDADE [██░░░░░░░░] 20
 ```
 <!-- ATTRIBUTES:START -->
 <!-- ATTRIBUTES:END -->
@@ -100,11 +100,11 @@ AGILIDADE [â–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–�
 
 <!-- BOSSES:START -->
 - [x] Boss 1: Entrar no mercado de trabalho - 06/2022 - DiamondBigger
-- [x] Boss 2: EstÃ¡gio - 06/2022 - DiamondBigger
+- [x] Boss 2: Estágio - 06/2022 - DiamondBigger
 - [x] Boss 3: Assistente - 10/2025 - Capgemini
-- [ ] Boss 4: Desenvolvedor JÃºnior - MM/AAAA - Empresa
+- [ ] Boss 4: Desenvolvedor Júnior - MM/AAAA - Empresa
 - [ ] Boss 5: Desenvolvedor Pleno - MM/AAAA - Empresa
-- [ ] Boss 6: Desenvolvedor SÃªnior - MM/AAAA - Empresa
+- [ ] Boss 6: Desenvolvedor Sênior - MM/AAAA - Empresa
 - [ ] Boss 7: Tech Lead / Engenheiro - MM/AAAA - Empresa
 <!-- BOSSES:END -->
 
@@ -128,7 +128,7 @@ Recompensa Final: Construir produtos de alto impacto
       <img src="https://img.shields.io/badge/Boss%202-Est%C3%A1gio-ef4444?style=for-the-badge" alt="Boss 2" /><br/>
       <img src="https://img.shields.io/badge/06%2F2022%20-%20DiamondBigger-ef4444?style=flat-square" alt="Data e empresa" /><br/>
       <img src="https://img.shields.io/badge/CONCLU%C3%8DDO-ef4444?style=flat-square" alt="Status" /><br/>
-      <img src="assets/images/boss-2-estagio.png" width="170" alt="Boss 2 - EstÃ¡gio" />
+      <img src="assets/images/boss-2-estagio.png" width="170" alt="Boss 2 - Estágio" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Boss%203-Assistente-ef4444?style=for-the-badge" alt="Boss 3" /><br/>
@@ -142,7 +142,7 @@ Recompensa Final: Construir produtos de alto impacto
       <img src="https://img.shields.io/badge/Boss%204-Desenvolvedor%20J%C3%BAnior-334155?style=for-the-badge" alt="Boss 4" /><br/>
       <img src="https://img.shields.io/badge/MM%2FAAAA%20-%20Empresa-64748b?style=flat-square" alt="Data e empresa" /><br/>
       <img src="https://img.shields.io/badge/PENDENTE-475569?style=flat-square" alt="Status" /><br/>
-      <img src="assets/images/boss-4-junior.png" width="170" alt="Boss 4 - Desenvolvedor JÃºnior" />
+      <img src="assets/images/boss-4-junior.png" width="170" alt="Boss 4 - Desenvolvedor Júnior" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Boss%205-Desenvolvedor%20Pleno-334155?style=for-the-badge" alt="Boss 5" /><br/>
@@ -154,7 +154,7 @@ Recompensa Final: Construir produtos de alto impacto
       <img src="https://img.shields.io/badge/Boss%206-Desenvolvedor%20S%C3%AAnior-334155?style=for-the-badge" alt="Boss 6" /><br/>
       <img src="https://img.shields.io/badge/MM%2FAAAA%20-%20Empresa-64748b?style=flat-square" alt="Data e empresa" /><br/>
       <img src="https://img.shields.io/badge/PENDENTE-475569?style=flat-square" alt="Status" /><br/>
-      <img src="assets/images/boss-6-senior.png" width="170" alt="Boss 6 - Desenvolvedor SÃªnior" />
+      <img src="assets/images/boss-6-senior.png" width="170" alt="Boss 6 - Desenvolvedor Sênior" />
     </td>
   </tr>
   <tr>
@@ -189,6 +189,7 @@ Recompensa Final: Construir produtos de alto impacto
 ---
 
 <p align="center"><i>"EvoluÃ§Ã£o nÃ£o Ã© sorte. Ã‰ rotina, foco e commits."</i></p>
+
 
 
 
