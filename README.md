@@ -36,16 +36,9 @@
 
 ### 🧍 Avatar
 
-<img src="assets/images/level-1.png" width="220" alt="Personagem Nível 1" />
+<img src="assets/images/level-1.png" width="300" alt="Personagem Nível 1" />
 
 > Nível 1: roupas de pano + espada de madeira
-
-```text
-   O
-  /|\      +10 XP Commit
-  / \      +50 XP Curso
- /___\     +200 XP Promoção
-```
 
 </td>
 <td width="33%" valign="top">
