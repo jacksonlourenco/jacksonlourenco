@@ -36,7 +36,9 @@
 
 ### 🧍 Avatar
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" alt="Sticker animado" />
+<img src="assets/images/level-1.png" width="220" alt="Personagem Nível 1" />
+
+> Nível 1: roupas de pano + espada de madeira
 
 ```text
    O
@@ -128,3 +130,5 @@ Recompensa Final: Construir produtos de alto impacto
 - 🧠 [Projeto de classe bancária](https://github.com/jacksonlourenco/BankingClass)
 
 <p align="center"><i>"Evolução não é sorte. É rotina, foco e commits."</i></p>
+
+
