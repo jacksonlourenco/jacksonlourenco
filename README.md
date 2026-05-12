@@ -1,43 +1,61 @@
-﻿<h1 align="center">⚔️ Jackson A. Lourenço | Sistema de Evolução</h1>
+﻿<h1 align="center">⚔️ Jackson A. Lourenço | Solo Leveling Dev System</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=900&color=2EF7B8&center=true&vCenter=true&width=980&lines=[SYSTEM]+Jogador+Detectado...;Classe:+Desenvolvedor+Full+Stack;Status:+Evoluindo+a+cada+commit;Próximo+Boss:+Promoção+de+Nível" alt="Sistema de evolução" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=850&color=38BDF8&center=true&vCenter=true&width=980&lines=[SYSTEM]+Inicializando...;Player:+Jackson+A.+Lourenço;Classe:+Full+Stack+Hunter;XP:+Upando+a+cada+commit;Próximo+Boss:+Promoção+de+Rank" alt="Sistema" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Classe-Dev%20em%20Ascensão-0B1220?style=for-the-badge&logo=apachespark&logoColor=58FCEC" />
-  <img src="https://img.shields.io/badge/Rank-Em%20Treinamento-1B1F3A?style=for-the-badge&logo=target&logoColor=F8D66D" />
-  <img src="https://img.shields.io/badge/Modo-Solo%20Leveling-111827?style=for-the-badge&logo=levelsdotfyi&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/RANK-E%20|%20Treinamento-0f172a?style=for-the-badge&logo=databricks&logoColor=22d3ee" />
+  <img src="https://img.shields.io/badge/CLASSE-Shadow%20Developer-111827?style=for-the-badge&logo=codefactor&logoColor=93c5fd" />
+  <img src="https://img.shields.io/badge/GUILD-Solo%20Leveling%20Path-131a2b?style=for-the-badge&logo=adguard&logoColor=facc15" />
 </p>
 
 ---
 
-## 🧬 Painel do Caçador
+## 🎮 Interface do Sistema
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+
+### 🧬 Status
 
 ```text
-╔══════════════════════════════════════╗
-║            STATUS WINDOW             ║
-╠══════════════════════════════════════╣
-║ 👤 Nome: Jackson A. Lourenço         ║
-║ 🧠 Classe: Desenvolvedor Full Stack  ║
-║ 🔥 Título: Dev em Ascensão           ║
-║ ⚡ Fonte de poder: Commits diários    ║
-╚══════════════════════════════════════╝
+╔══════════════════════╗
+║      PLAYER HUD      ║
+╠══════════════════════╣
+║ Nome: Jackson        ║
+║ Classe: Full Stack   ║
+║ Título: Em Ascensão  ║
+║ Rank: E              ║
+╚══════════════════════╝
 ```
 
 </td>
-<td width="50%" valign="top">
+<td width="34%" align="center" valign="top">
+
+### 🧍 Avatar
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" alt="Sticker animado" />
 
 ```text
-        O
-       /|\       +10 XP por commit
-       / \       +50 XP por curso
-      /___\      +200 XP por promoção
-     [=====]     +1 rank por consistência
+   O
+  /|\      +10 XP Commit
+  / \      +50 XP Curso
+ /___\     +200 XP Promoção
+```
+
+</td>
+<td width="33%" valign="top">
+
+### 📊 Atributos
+
+```text
+STR  [███████░░░] 70
+INT  [████████░░] 80
+AGI  [██████░░░░] 60
+END  [███████░░░] 70
+LUK  [█████░░░░░] 50
 ```
 
 </td>
@@ -46,7 +64,7 @@
 
 ---
 
-## 📈 Evolução por Commit
+## 📈 Progressão de Nível
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=jacksonlourenco&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
@@ -54,29 +72,28 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Regra%20de%20Poder-Cada%20commit%20%3D%20+10%20XP-0f172a?style=for-the-badge&logo=github&logoColor=22d3ee" />
+  <img src="https://img.shields.io/badge/XP%20Rule-1%20Commit%20%3D%20+10%20XP-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Combo-Streak%20ativa%20%3D%20Buff%20de%20Disciplina-0f172a?style=for-the-badge&logo=firefoxbrowser&logoColor=f97316" />
 </p>
 
 ---
 
-## 🛡️ Equipamentos (Cursos e Certificados)
+## 🛡️ Inventário (Cursos e Certificados)
 
-> Cada novo curso desbloqueia um item e aumenta os atributos do personagem.
+| Slot | Item Épico | Bônus | Fonte |
+|---|---|---|---|
+| 🧠 Cabeça | Elmo da Lógica | +INT | Curso de Algoritmos |
+| 🛡️ Peito | Armadura da Arquitetura | +END | Certificação Back-end |
+| ⚔️ Mão Principal | Espada Spring Core | +STR | Curso Spring Boot |
+| 🗡️ Mão Secundária | Adaga Async JS | +AGI | Curso JavaScript/Node |
+| 👢 Botas | Passos Responsivos | +AGI | Curso React + CSS |
+| 💍 Acessório | Anel do Banco de Dados | +INT | Curso PostgreSQL/MongoDB |
 
-| Slot | Item Desbloqueado | Fonte |
-|---|---|---|
-| 🧠 Cabeça | Elmo da Lógica | Curso de Algoritmos |
-| 🛡️ Peito | Armadura da Arquitetura | Certificação de Back-end |
-| ⚔️ Mão Principal | Espada Spring Core | Curso Spring Boot |
-| 🗡️ Mão Secundária | Adaga JavaScript Assíncrona | Curso JS/Node |
-| 👢 Botas | Passos do Front-end Responsivo | Curso React + CSS |
-| 💍 Acessório | Anel do Banco de Dados | Curso PostgreSQL/MongoDB |
-
-> Atualize esta seção sempre que concluir um novo curso/certificação.
+> Cada certificado novo = item novo no inventário.
 
 ---
 
-## 👹 Bosses de Carreira
+## 👹 Raid de Bosses (Carreira)
 
 - [ ] Boss 1: Entrar no mercado de trabalho
 - [ ] Boss 2: Assistente / Estágio
@@ -85,9 +102,10 @@
 - [ ] Boss 5: Desenvolvedor Sênior
 - [ ] Boss 6: Tech Lead / Especialista
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Quest%20Principal-Derrota%20todos%20os%20Bosses-111827?style=for-the-badge&logo=ghost&logoColor=f43f5e" />
-</p>
+```text
+Quest Principal: Derrotar todos os Bosses e alcançar Rank S
+Recompensa Final: Construir produtos de alto impacto
+```
 
 ---
 
@@ -109,6 +127,4 @@
 
 - 🧠 [Projeto de classe bancária](https://github.com/jacksonlourenco/BankingClass)
 
----
-
-<p align="center"><i>"Só existe um caminho para evoluir: continuar upando."</i></p>
+<p align="center"><i>"Evolução não é sorte. É rotina, foco e commits."</i></p>
