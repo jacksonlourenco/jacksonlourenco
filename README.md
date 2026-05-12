@@ -46,12 +46,17 @@
 ### 📊 Atributos
 
 ```text
-STR  [███████░░░] 70
-INT  [████████░░] 80
-AGI  [██████░░░░] 60
-END  [███████░░░] 70
-LUK  [█████░░░░░] 50
+ATAQUE    [██░░░░░░░░] 20
+DEFESA    [█░░░░░░░░░] 19
+VIDA      [████░░░░░░] 48
+AGILIDADE [██░░░░░░░░] 20
 ```
+<!-- ATTRIBUTES:START -->
+<!-- ATTRIBUTES:END -->
+
+> Ataque e Defesa escalam com o nível do personagem.  
+> Vida = idade x 2 (auto).  
+> Agilidade = 1 ponto por mês de experiência na área (auto).
 
 </td>
   </tr>
@@ -123,5 +128,6 @@ Recompensa Final: Construir produtos de alto impacto
 - 🧠 [Projeto de classe bancária](https://github.com/jacksonlourenco/BankingClass)
 
 <p align="center"><i>"Evolução não é sorte. É rotina, foco e commits."</i></p>
+
 
 
