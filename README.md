@@ -27,8 +27,8 @@
 ║ Nome: Jackson        ║
 ║ Classe: Full Stack   ║
 ║ Título: Em Ascensão  ║
-║ Rank: B            ║
-║ Cargo: Assistente  ║
+║ Rank: C              ║
+║ Cargo: Assistente    ║
 ╚══════════════════════╝
 ```
 
@@ -38,7 +38,6 @@
   <img src="assets/images/companion-pet.jpeg" width="140" alt="Companheiro da jornada" />
 </p>
 
-> Companion: guardião da jornada
 
 </td>
 <td width="34%" align="center" valign="top">
@@ -47,7 +46,6 @@
 
 <img src="assets/images/level-4.png" width="300" alt="Personagem Nível 1" />
 
-> Nível 4: evolução por boss concluído
 
 
 </td>
@@ -68,12 +66,9 @@ AGILIDADE [██░░░░░░░░] 20
 
 | Projeto | Rank |
 |---|---|
-| [Projeto exemplo 1](https://example.com) | B |
-| [Projeto exemplo 2](https://example.com) | A |
-| [Projeto exemplo 3](https://example.com) | S |
-| [Projeto exemplo 4](https://example.com) | SS |
-
-> Edite esta tabela para adicionar seus projetos e ajustar o rank.
+| [Classe bancária](https://github.com/jacksonlourenco/BankingClass) | D |
+| [Rank Utopia](https://github.com/jacksonlourenco/Rank_UtopiaSL) | C |
+| [Forúm Slayer Legend](https://github.com/jacksonlourenco/Forum_SlayerLegend) | A |
 
 </td>
   </tr>
@@ -184,10 +179,6 @@ Recompensa Final: Construir produtos de alto impacto
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
-
-## 🚀 Missões em Destaque
-
-- 🧠 [Projeto de classe bancária](https://github.com/jacksonlourenco/BankingClass)
 
 <p align="center"><i>"Evolução não é sorte. É rotina, foco e commits."</i></p>
 
