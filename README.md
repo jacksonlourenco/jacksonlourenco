@@ -32,6 +32,14 @@
 ╚══════════════════════╝
 ```
 
+### 🐾 Companheiro
+
+<p align="center">
+  <img src="assets/images/companion-pet.jpeg" width="140" alt="Companheiro da jornada" />
+</p>
+
+> Companion: guardião da jornada
+
 </td>
 <td width="34%" align="center" valign="top">
 
@@ -56,11 +64,16 @@ AGILIDADE [██░░░░░░░░] 20
 <!-- ATTRIBUTES:START -->
 <!-- ATTRIBUTES:END -->
 
-### 🐾 Companheiro
+### 🧩 Projetos (Rank por Complexidade)
 
-<img src="assets/images/companion-pet.jpeg" width="140" alt="Companheiro da jornada" />
+| Projeto | Rank |
+|---|---|
+| [Projeto exemplo 1](https://example.com) | B |
+| [Projeto exemplo 2](https://example.com) | A |
+| [Projeto exemplo 3](https://example.com) | S |
+| [Projeto exemplo 4](https://example.com) | SS |
 
-> Companion: guardião da jornada
+> Edite esta tabela para adicionar seus projetos e ajustar o rank.
 
 </td>
   </tr>
