@@ -62,13 +62,14 @@ AGILIDADE [██░░░░░░░░] 20
 <!-- ATTRIBUTES:START -->
 <!-- ATTRIBUTES:END -->
 
-### 🧩 Projetos (Rank por Complexidade)
+### 🧩 Missões Secundárias
 
 | Projeto | Rank |
 |---|---|
 | [Classe bancária](https://github.com/jacksonlourenco/BankingClass) | D |
 | [Rank Utopia](https://github.com/jacksonlourenco/Rank_UtopiaSL) | C |
 | [Forúm Slayer Legend](https://github.com/jacksonlourenco/Forum_SlayerLegend) | A |
+| [Pitch Entra21](https://github.com/jacksonlourenco/pitch-final-entra21-backend) | S |
 
 </td>
   </tr>
@@ -78,17 +79,14 @@ AGILIDADE [██░░░░░░░░] 20
 
 ## 🛡️ Inventário (Cursos e Certificados)
 
-| Slot | Item Épico | Bônus | Curso | Link do Certificado |
-|---|---|---|---|---|
-| 🧠 Cabeça | Elmo da Lógica | +INT | Algoritmos | [Adicionar link](https://example.com) |
-| 🛡️ Peito | Armadura da Arquitetura | +END | Back-end | [Adicionar link](https://example.com) |
-| ⚔️ Mão Principal | Espada Spring Core | +STR | Spring Boot | [Adicionar link](https://example.com) |
-| 🗡️ Mão Secundária | Adaga Async JS | +AGI | JavaScript/Node | [Adicionar link](https://example.com) |
-| 👢 Botas | Passos Responsivos | +AGI | React + CSS | [Adicionar link](https://example.com) |
-| 💍 Acessório | Anel do Banco de Dados | +INT | PostgreSQL/MongoDB | [Adicionar link](https://example.com) |
-
-> Cada certificado novo = item novo no inventário.
-> Para adicionar novo item, edite esta tabela no README.
+| Curso | Link do Certificado |
+|---|---|
+| Algoritmos | [Adicionar link](https://example.com) |
+| Back-end | [Adicionar link](https://example.com) |
+| Spring Boot | [Adicionar link](https://example.com) |
+| JavaScript/Node | [Adicionar link](https://example.com) |
+| React + CSS | [Adicionar link](https://example.com) |
+| PostgreSQL/MongoDB | [Adicionar link](https://example.com) |
 
 ---
 
@@ -181,12 +179,3 @@ Recompensa Final: Construir produtos de alto impacto
 ---
 
 <p align="center"><i>"Evolução não é sorte. É rotina, foco e commits."</i></p>
-
-
-
-
-
-
-
-
-
