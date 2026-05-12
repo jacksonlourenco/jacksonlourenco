@@ -41,11 +41,6 @@
 
 > Nível 3: evolução por boss concluído
 
-### 🐾 Companheiro
-
-<img src="assets/images/companion-pet.jpeg" width="140" alt="Companheiro da jornada" />
-
-> Companion: guardião da jornada
 
 </td>
 <td width="33%" valign="top">
@@ -60,6 +55,12 @@ AGILIDADE [██░░░░░░░░] 20
 ```
 <!-- ATTRIBUTES:START -->
 <!-- ATTRIBUTES:END -->
+
+### 🐾 Companheiro
+
+<img src="assets/images/companion-pet.jpeg" width="140" alt="Companheiro da jornada" />
+
+> Companion: guardião da jornada
 
 </td>
   </tr>
