@@ -1,4 +1,4 @@
-﻿<h1 align="center">⚔️ Jackson A. Lourenço | Solo Leveling Dev System</h1>
+<h1 align="center">⚔️ Jackson A. Lourenço | Solo Leveling Dev System</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=850&color=38BDF8&center=true&vCenter=true&width=980&lines=[SYSTEM]+Inicializando...;Player:+Jackson+A.+Lourenço;Classe:+Full+Stack+Hunter;XP:+Upando+a+cada+commit;Próximo+Boss:+Promoção+de+Rank" alt="Sistema" />
@@ -27,8 +27,8 @@
 ║ Nome: Jackson        ║
 ║ Classe: Full Stack   ║
 ║ Título: Em Ascensão  ║
-║ Rank: E            ║
-║ Cargo: Aprendiz    ║
+║ Rank: C            ║
+║ Cargo: Estagio     ║
 ╚══════════════════════╝
 ```
 
@@ -37,9 +37,9 @@
 
 ### 🧍 Avatar
 
-<img src="assets/images/level-1.png" width="300" alt="Personagem Nível 1" />
+<img src="assets/images/level-3.png" width="300" alt="Personagem Nível 1" />
 
-> Nível 1: evolução por boss concluído
+> Nível 3: evolução por boss concluído
 
 </td>
 <td width="33%" valign="top">
@@ -47,8 +47,8 @@
 ### 📊 Atributos
 
 ```text
-ATAQUE    [██░░░░░░░░] 22
-DEFESA    [██░░░░░░░░] 20
+ATAQUE    [████░░░░░░] 46
+DEFESA    [████░░░░░░] 44
 VIDA      [████░░░░░░] 48
 AGILIDADE [██░░░░░░░░] 20
 ```
@@ -169,6 +169,7 @@ Recompensa Final: Construir produtos de alto impacto
 - 🧠 [Projeto de classe bancária](https://github.com/jacksonlourenco/BankingClass)
 
 <p align="center"><i>"Evolução não é sorte. É rotina, foco e commits."</i></p>
+
 
 
 
