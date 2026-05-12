@@ -20,9 +20,23 @@
 
 ### 🧬 Status
 
+<<<<<<< HEAD
 <p align="center">
   <img src="assets/images/HUD.png" width="280" alt="HUD do Player" />
 </p>
+=======
+```text
+╔══════════════════════╗
+║      PLAYER HUD      ║
+╠══════════════════════╣
+║ Nome: Jackson        ║
+║ Classe: Full Stack   ║
+║ Título: Em Ascensão  ║
+║ Rank: B            ║
+║ Cargo: Assistente  ║
+╚══════════════════════╝
+```
+>>>>>>> 1f688f2da6c2d5bf9c120aa199ef322d63d41271
 
 ### ðŸ¾ Companheiro
 
@@ -175,5 +189,6 @@ Recompensa Final: Construir produtos de alto impacto
 ---
 
 <p align="center"><i>"EvoluÃ§Ã£o nÃ£o Ã© sorte. Ã‰ rotina, foco e commits."</i></p>
+
 
 
