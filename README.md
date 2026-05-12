@@ -1,4 +1,4 @@
-﻿<h1 align="center">⚔️ Jackson A. Lourenço | Solo Leveling Dev System</h1>
+<h1 align="center">⚔️ Jackson A. Lourenço | Solo Leveling Dev System</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=850&color=38BDF8&center=true&vCenter=true&width=980&lines=[SYSTEM]+Inicializando...;Player:+Jackson+A.+Lourenço;Classe:+Full+Stack+Hunter;XP:+Upando+a+cada+commit;Próximo+Boss:+Promoção+de+Rank" alt="Sistema" />
@@ -173,3 +173,4 @@ Recompensa Final: Construir produtos de alto impacto
 ---
 
 <p align="center"><i>"Evolução não é sorte. É rotina, foco e commits."</i></p>
+
