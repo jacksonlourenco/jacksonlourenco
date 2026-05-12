@@ -27,7 +27,8 @@
 ║ Nome: Jackson        ║
 ║ Classe: Full Stack   ║
 ║ Título: Em Ascensão  ║
-║ Rank: E              ║
+║ Rank: E            ║
+║ Cargo: Aprendiz    ║
 ╚══════════════════════╝
 ```
 
@@ -38,7 +39,7 @@
 
 <img src="assets/images/level-1.png" width="300" alt="Personagem Nível 1" />
 
-> Nível 1: roupas de pano + espada de madeira
+> Nível 1: evolução por boss concluído
 
 </td>
 <td width="33%" valign="top">
@@ -46,8 +47,8 @@
 ### 📊 Atributos
 
 ```text
-ATAQUE    [██░░░░░░░░] 20
-DEFESA    [█░░░░░░░░░] 19
+ATAQUE    [██░░░░░░░░] 22
+DEFESA    [██░░░░░░░░] 20
 VIDA      [████░░░░░░] 48
 AGILIDADE [██░░░░░░░░] 20
 ```
@@ -96,16 +97,56 @@ AGILIDADE [██░░░░░░░░] 20
 ## 👹 Raid de Bosses (Carreira)
 
 - [ ] Boss 1: Entrar no mercado de trabalho
-- [ ] Boss 2: Assistente / Estágio
-- [ ] Boss 3: Desenvolvedor Júnior
-- [ ] Boss 4: Desenvolvedor Pleno
-- [ ] Boss 5: Desenvolvedor Sênior
-- [ ] Boss 6: Tech Lead / Especialista
+- [ ] Boss 2: Estágio
+- [ ] Boss 3: Assistente
+- [ ] Boss 4: Desenvolvedor Júnior
+- [ ] Boss 5: Desenvolvedor Pleno
+- [ ] Boss 6: Desenvolvedor Sênior
+- [ ] Boss 7: Tech Lead / Engenheiro
 
 ```text
-Quest Principal: Derrotar todos os Bosses e alcançar Rank S
+Quest Principal: Derrotar todos os Bosses e alcançar Rank SS
 Recompensa Final: Construir produtos de alto impacto
 ```
+
+### 🖼️ Galeria da Raid
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>Boss 1</strong><br/>Entrar no mercado<br/>
+      <img src="assets/images/boss-1-entrar-mercado.png" width="170" alt="Boss 1 - Entrar no mercado" />
+    </td>
+    <td align="center">
+      <strong>Boss 2</strong><br/>Estágio<br/>
+      <img src="assets/images/boss-2-estagio.png" width="170" alt="Boss 2 - Estágio" />
+    </td>
+    <td align="center">
+      <strong>Boss 3</strong><br/>Assistente<br/>
+      <img src="assets/images/boss-3-assistente.png" width="170" alt="Boss 3 - Assistente" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Boss 4</strong><br/>Desenvolvedor Júnior<br/>
+      <img src="assets/images/boss-4-junior.png" width="170" alt="Boss 4 - Desenvolvedor Júnior" />
+    </td>
+    <td align="center">
+      <strong>Boss 5</strong><br/>Desenvolvedor Pleno<br/>
+      <img src="assets/images/boss-5-pleno.png" width="170" alt="Boss 5 - Desenvolvedor Pleno" />
+    </td>
+    <td align="center">
+      <strong>Boss 6</strong><br/>Desenvolvedor Sênior<br/>
+      <img src="assets/images/boss-6-senior.png" width="170" alt="Boss 6 - Desenvolvedor Sênior" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <strong>Boss 7</strong><br/>Tech Lead / Engenheiro<br/>
+      <img src="assets/images/boss-7-tech-lead-engenheiro.png" width="170" alt="Boss 7 - Tech Lead / Engenheiro" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -128,6 +169,8 @@ Recompensa Final: Construir produtos de alto impacto
 - 🧠 [Projeto de classe bancária](https://github.com/jacksonlourenco/BankingClass)
 
 <p align="center"><i>"Evolução não é sorte. É rotina, foco e commits."</i></p>
+
+
 
 
 
