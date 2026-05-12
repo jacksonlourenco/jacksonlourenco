@@ -96,7 +96,7 @@ AGILIDADE [██░░░░░░░░] 20
 
 ## 👹 Raid de Bosses (Carreira)
 
-- [ ] Boss 1: Entrar no mercado de trabalho
+- [X] Boss 1: Entrar no mercado de trabalho
 - [ ] Boss 2: Estágio
 - [ ] Boss 3: Assistente
 - [ ] Boss 4: Desenvolvedor Júnior
