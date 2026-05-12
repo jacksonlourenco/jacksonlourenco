@@ -1,14 +1,4 @@
-﻿<h1 align="center">⚔️ Jackson A. Lourenço | Solo Leveling Dev System</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=850&color=38BDF8&center=true&vCenter=true&width=980&lines=[SYSTEM]+Inicializando...;Player:+Jackson+A.+Lourenço;Classe:+Full+Stack+Hunter;XP:+Upando+a+cada+commit;Próximo+Boss:+Promoção+de+Rank" alt="Sistema" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/RANK-E%20|%20Treinamento-0f172a?style=for-the-badge&logo=databricks&logoColor=22d3ee" />
-  <img src="https://img.shields.io/badge/CLASSE-Shadow%20Developer-111827?style=for-the-badge&logo=codefactor&logoColor=93c5fd" />
-  <img src="https://img.shields.io/badge/GUILD-Solo%20Leveling%20Path-131a2b?style=for-the-badge&logo=adguard&logoColor=facc15" />
-</p>
+﻿<h1 align="center">⚔️ Jackson A. Lourenço |   Leveling Dev System</h1>
 
 ---
 
@@ -35,9 +25,7 @@
 
 ### 🧍 Avatar
 
-<img src="assets/images/level-4.png" width="300" alt="Personagem Nível 4" />
-
-> Nível 4: evolução por boss concluído
+<img src="assets/images/level-4.png" width="300" alt="Personagem Nível 4" /> 
 
 </td>
 <td width="33%" valign="top">
