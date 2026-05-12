@@ -51,8 +51,8 @@ function HudLine([string]$label, [string]$value) {
     return $text.PadRight(21) + "║"
 }
 
-# Conta bosses concluidos via checklist do README
-$checkedBosses = [regex]::Matches($readme, '(?m)^- \[x\] Boss \d+:').Count
+# Conta bosses concluidos via checklist do README (aceita [x] e [X], com espacos variaveis)
+$checkedBosses = [regex]::Matches($readme, '(?im)^-\s*\[[x]\]\s*Boss\s+\d+:').Count
 $promotionsCompleted = [Math]::Min([Math]::Max(0, $checkedBosses), 7)
 
 # Nivel de personagem sobe conforme bosses concluidos (1..7)

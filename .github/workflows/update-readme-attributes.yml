@@ -2,6 +2,10 @@ name: Update README Attributes
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - README.md
+      - scripts/update-readme-attributes.ps1
   schedule:
     - cron: "0 6 * * *"
 
