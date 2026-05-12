@@ -27,8 +27,8 @@
 ║ Nome: Jackson        ║
 ║ Classe: Full Stack   ║
 ║ Título: Em Ascensão  ║
-║ Rank: E              ║
-║ Cargo: Aprendiz      ║
+║ Rank: E            ║
+║ Cargo: Aprendiz    ║
 ╚══════════════════════╝
 ```
 
@@ -176,6 +176,7 @@ Recompensa Final: Construir produtos de alto impacto
 - 🧠 [Projeto de classe bancária](https://github.com/jacksonlourenco/BankingClass)
 
 <p align="center"><i>"Evolução não é sorte. É rotina, foco e commits."</i></p>
+
 
 
 
