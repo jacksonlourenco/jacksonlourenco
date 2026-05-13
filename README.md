@@ -25,7 +25,7 @@
 
 ### 🧍 Avatar
 
-<img src="assets/images/level-4.png" width="300" alt="Personagem Nível 4" /> 
+<img src="assets/images/level-5.png" width="300" alt="Personagem Nível 4" /> 
 
 </td>
 <td width="33%" valign="top">
@@ -33,8 +33,8 @@
 ### 📊 Atributos
 
 ```text
-ATAQUE    [█████░░░░░] 58
-DEFESA    [█████░░░░░] 56
+ATAQUE    [███████░░░] 70
+DEFESA    [██████░░░░] 68
 VIDA      [████░░░░░░] 48
 AGILIDADE [██░░░░░░░░] 20
 ```
@@ -112,9 +112,9 @@ Recompensa Final: Construir produtos de alto impacto
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Boss%204-Desenvolvedor%20J%C3%BAnior-334155?style=for-the-badge" alt="Boss 4" /><br/>
-      <img src="https://img.shields.io/badge/MM%2FAAAA%20-%20Empresa-64748b?style=flat-square" alt="Data e empresa" /><br/>
-      <img src="https://img.shields.io/badge/PENDENTE-475569?style=flat-square" alt="Status" /><br/>
+      <img src="https://img.shields.io/badge/Boss%204-Desenvolvedor%20J%C3%BAnior-ef4444?style=for-the-badge" alt="Boss 4" /><br/>
+      <img src="https://img.shields.io/badge/MM%2FAAAA%20-%20Empresa-ef4444?style=flat-square" alt="Data e empresa" /><br/>
+      <img src="https://img.shields.io/badge/CONCLU%C3%8DDO-ef4444?style=flat-square" alt="Status" /><br/>
       <img src="assets/images/boss-4-junior.png" width="170" alt="Boss 4 - Desenvolvedor Júnior" />
     </td>
     <td align="center">
@@ -161,6 +161,7 @@ Recompensa Final: Construir produtos de alto impacto
 ---
 
 <p align="center"><i>"Evolução não é sorte. É rotina, foco e commits."</i></p>
+
 
 
 
