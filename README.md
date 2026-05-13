@@ -17,7 +17,7 @@
 ### 🐾 Companheiro
 
 <p align="center">
-  <img src="assets/images/companion-pet.jpeg" width="140" alt="Companheiro da jornada" />
+  <img src="assets/images/companion-pet.png" width="140" alt="Companheiro da jornada" />
 </p>
 
 </td>
