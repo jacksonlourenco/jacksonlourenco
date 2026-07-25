@@ -74,7 +74,7 @@ AGILIDADE [██░░░░░░░░] 22
 - [x] Boss 1: Entrar no mercado de trabalho - 06/2022 - DiamondBigger
 - [x] Boss 2: Estágio - 06/2022 - DiamondBigger
 - [x] Boss 3: Assistente - 10/2025 - Capgemini
-- [x] Boss 4: Desenvolvedor Júnior - 08/2026 - Premiersoft
+- [x] Boss 4: Desenvolvedor Júnior - MM/AAAA - Empresa
 - [ ] Boss 5: Desenvolvedor Pleno - MM/AAAA - Empresa
 - [ ] Boss 6: Desenvolvedor Sênior - MM/AAAA - Empresa
 - [ ] Boss 7: Tech Lead / Engenheiro - MM/AAAA - Empresa
@@ -160,6 +160,7 @@ Recompensa Final: Construir produtos de alto impacto
 ---
 
 <p align="center"><i>"Evolução não é sorte. É rotina, foco e commits."</i></p>
+
 
 
 
