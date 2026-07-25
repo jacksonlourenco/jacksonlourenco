@@ -47,7 +47,6 @@ AGILIDADE [██░░░░░░░░] 22
 |---|---|
 | [Classe bancária](https://github.com/jacksonlourenco/BankingClass) | D |
 | [Rank Utopia](https://github.com/jacksonlourenco/Rank_UtopiaSL) | C |
-| [Fórum Slayer Legend](https://github.com/jacksonlourenco/Forum_SlayerLegend) | A |
 | [Pitch Entra21](https://github.com/jacksonlourenco/pitch-final-entra21-backend) | S |
 
 </td>
@@ -75,7 +74,7 @@ AGILIDADE [██░░░░░░░░] 22
 - [x] Boss 1: Entrar no mercado de trabalho - 06/2022 - DiamondBigger
 - [x] Boss 2: Estágio - 06/2022 - DiamondBigger
 - [x] Boss 3: Assistente - 10/2025 - Capgemini
-- [x] Boss 4: Desenvolvedor Júnior - MM/AAAA - Empresa
+- [x] Boss 4: Desenvolvedor Júnior - 08/2026 - Premiersoft
 - [ ] Boss 5: Desenvolvedor Pleno - MM/AAAA - Empresa
 - [ ] Boss 6: Desenvolvedor Sênior - MM/AAAA - Empresa
 - [ ] Boss 7: Tech Lead / Engenheiro - MM/AAAA - Empresa
