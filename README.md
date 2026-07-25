@@ -25,7 +25,7 @@
 
 ### 🧍 Avatar
 
-<img src="assets/images/level-4.png" width="300" alt="Personagem Nível 4" /> 
+<img src="assets/images/level-5.png" width="300" alt="Personagem Nível 4" /> 
 
 </td>
 <td width="33%" valign="top">
@@ -33,8 +33,8 @@
 ### 📊 Atributos
 
 ```text
-ATAQUE    [█████░░░░░] 58
-DEFESA    [█████░░░░░] 56
+ATAQUE    [███████░░░] 70
+DEFESA    [██████░░░░] 68
 VIDA      [█████░░░░░] 50
 AGILIDADE [██░░░░░░░░] 22
 ```
@@ -75,7 +75,7 @@ AGILIDADE [██░░░░░░░░] 22
 - [x] Boss 1: Entrar no mercado de trabalho - 06/2022 - DiamondBigger
 - [x] Boss 2: Estágio - 06/2022 - DiamondBigger
 - [x] Boss 3: Assistente - 10/2025 - Capgemini
-- [x] Boss 4: Desenvolvedor Júnior - 08/2026 - Premisersoft
+- [x] Boss 4: Desenvolvedor Júnior - MM/AAAA - Empresa
 - [ ] Boss 5: Desenvolvedor Pleno - MM/AAAA - Empresa
 - [ ] Boss 6: Desenvolvedor Sênior - MM/AAAA - Empresa
 - [ ] Boss 7: Tech Lead / Engenheiro - MM/AAAA - Empresa
@@ -112,9 +112,9 @@ Recompensa Final: Construir produtos de alto impacto
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Boss%204-Desenvolvedor%20J%C3%BAnior-334155?style=for-the-badge" alt="Boss 4" /><br/>
-      <img src="https://img.shields.io/badge/MM%2FAAAA%20-%20Empresa-64748b?style=flat-square" alt="Data e empresa" /><br/>
-      <img src="https://img.shields.io/badge/PENDENTE-475569?style=flat-square" alt="Status" /><br/>
+      <img src="https://img.shields.io/badge/Boss%204-Desenvolvedor%20J%C3%BAnior-ef4444?style=for-the-badge" alt="Boss 4" /><br/>
+      <img src="https://img.shields.io/badge/MM%2FAAAA%20-%20Empresa-ef4444?style=flat-square" alt="Data e empresa" /><br/>
+      <img src="https://img.shields.io/badge/CONCLU%C3%8DDO-ef4444?style=flat-square" alt="Status" /><br/>
       <img src="assets/images/boss-4-junior.png" width="170" alt="Boss 4 - Desenvolvedor Júnior" />
     </td>
     <td align="center">
@@ -161,6 +161,7 @@ Recompensa Final: Construir produtos de alto impacto
 ---
 
 <p align="center"><i>"Evolução não é sorte. É rotina, foco e commits."</i></p>
+
 
 
 
