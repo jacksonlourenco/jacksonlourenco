@@ -36,7 +36,7 @@
 ATAQUE    [███████░░░] 70
 DEFESA    [██████░░░░] 68
 VIDA      [█████░░░░░] 50
-AGILIDADE [██░░░░░░░░] 23
+AGILIDADE [██░░░░░░░░] 24
 ```
 <!-- ATTRIBUTES:START -->
 <!-- ATTRIBUTES:END -->
@@ -160,6 +160,7 @@ Recompensa Final: Construir produtos de alto impacto
 ---
 
 <p align="center"><i>"Evolução não é sorte. É rotina, foco e commits."</i></p>
+
 
 
 
